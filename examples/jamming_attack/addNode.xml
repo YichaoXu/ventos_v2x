@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<addNode id="add_0">
+
+  <adversary id="jammer" pos="2000,0,500" /> 
+
+  <vehicle_platoon id="vehr" type="TypeCACC1" size="2" route="right2left" platoonMaxSpeed="1" />
+  <vehicle_platoon id="vehl" type="TypeCACC1" size="2" route="left2right" platoonMaxSpeed="1" />
+
+</addNode>
+
+
